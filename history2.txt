@@ -1,0 +1,49 @@
+    1  ~
+    2  cd ~
+    3  mkdir examen372
+    4  cd examen372
+    5  touch create.sh
+    6  echo #! /bin/bash > create.sh
+    7  ls
+    8  cd create.sh 
+    9  cat create.sh 
+   10  nano create.sh 
+   11  echo "#! /bin/bash" > create.sh
+   12  cat create.sh 
+   13  git init
+   14  git status
+   15  git branch -m main
+   16  git init
+   17  git status
+   18  git remote add origin https://github.com/RobertoRdg/examen372.git
+   19  git branch -M main
+   20  git push -u origin main
+   21  git status
+   22  git add create.sh 
+   23  git status
+   24  cd create.sh 
+   25  cat create.sh 
+   26  code . create.sh 
+   27  rm -rf webapp
+   28  mkdir webapp
+   29  cd webapp
+   30  mkfir css
+   31  mkdir css
+   32  mkdir js
+   33  mkdir docs
+   34  mkdir img
+   35  cd docs
+   36  mkdir text
+   37  mkdir python
+   38  cd..
+   39  cd ..
+   40  cd ..
+   41  ls
+   42  git init
+   43  git status
+   44  git commit -m "Initial commit, script added"
+   45  git remote add origin https://github.com/RobertoRdg/examen372.git
+   46  git branch -M main
+   47  git push -u origin main
+   48  ls
+   49  history > history2.txt
