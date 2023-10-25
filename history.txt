@@ -1,0 +1,39 @@
+  273  git init
+  274  cd main
+  275  ls
+  276  create.sh ./
+  277  ./ create.sh
+  278  ./create.sh
+  279  ./create.sh
+  280  ./create.sh
+  281* 
+  282  ./create.sh
+  283  ./create.sh
+  284  ./create.sh
+  285  cmd //c tree //F ./
+  286  ./create.sh
+  287  ./create.sh
+  288  ./create.sh
+  289  mv meme.jpg > webapp
+  290  ./create.sh
+  291  ./create.sh
+  292  ./create.sh
+  293  cmd //c tree //F ./
+  294  git commit -m "Second commit, structure created"
+  295  git add .
+  296  git commit -m "Second commit, structure created"
+  297  git push
+  298  mv style.css > css
+  299  ./create.sh
+  300  ./create.sh
+  301  ./create.sh
+  302  cmd //c tree //F ./
+  303  ./create.sh
+  304  ./create.sh
+  305  ./create.sh
+  306  ./create.sh
+  307  git add create.sh 
+  308  git commit -m "Third commit, add README.ms and final"
+  309  history
+  310  history 
+  311  history > history.txt
