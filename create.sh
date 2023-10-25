@@ -20,3 +20,15 @@ read -p "Introduce la cantidad de archivos a crear:" numfiles
     do
         echo "Archivo ${x}" > "./webapp/file${x}.txt"
     done
+
+mv ./webapp/style.css ./webapp/css
+for x in $( seq 1 $numfiles )
+do
+    mv "./webapp/file${x}.txt" ./webapp/docs/text/
+done
+mv ./webapp/main.py ./webapp/docs/python
+mv ./webapp/app.js ./webapp/js
+
+mv ~/Desktop/examen/examen372.md ~/examen372
+
+mv examen372.md README.md
