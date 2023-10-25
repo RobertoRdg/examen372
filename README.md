@@ -115,11 +115,11 @@
    
 9. [x] En el script debe organizar la informacion moviendo los archivos a su respectiva carpeta usando el comando *`"mv"`*:
    
-      - [ ] Mueve el archivo *`style.css`* a la carpeta **`css`**
-      - [ ] Los archivos *`fileN.txt`* a la carpeta **`docs/text`**
-      - [ ] El archivo *`main.py`* a la carpeta **`docs/python`**
-      - [ ] El *`app.js`* a la carpeta **`js`** 
-      - [ ] Dejar *`index.html`* en la ruta actual, dentro de **`webapp`**. 
+      - [X] Mueve el archivo *`style.css`* a la carpeta **`css`**
+      - [X] Los archivos *`fileN.txt`* a la carpeta **`docs/text`**
+      - [X] El archivo *`main.py`* a la carpeta **`docs/python`**
+      - [X] El *`app.js`* a la carpeta **`js`** 
+      - [X] Dejar *`index.html`* en la ruta actual, dentro de **`webapp`**. 
    
 10. [x] Al ejecutar `"cmd //c tree //F ./"` debe verse asi y concluye la programación del script:
    
